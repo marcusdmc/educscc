@@ -7,5 +7,8 @@ public class FizzBuzz {
         this.fizzBuzz = fizzBuzz;
     }
 
-    public
+    public String calculateFizzOrBuzz(){
+        return fizzBuzz;
+
+    }
 }
